@@ -37,4 +37,7 @@ The **555 Timer IC** is a popular and versatile component used in timing and osc
 
 ---
 
+## 📁 Files Included
 
+- `astable555.asc` – LTspice schematic  
+- `waveform.png` – Simulation result
