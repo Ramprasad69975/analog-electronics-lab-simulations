@@ -7,8 +7,4 @@ LTspice simulations of analog electronics lab experiments as per Semester 3
 3. You can simulate and analyze the waveform directly in LTspice.
 
 If you don't have LTspice installed, download it [here](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html).
-## Circuit Schematic
-![Schematic](schematic.png)
 
-## Output Waveform
-![Waveform](output_waveform.png)
