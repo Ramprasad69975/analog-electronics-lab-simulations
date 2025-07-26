@@ -38,7 +38,7 @@ Differential amplifiers can operate in two primary modes:
 
 ## Example LTspice Schematic
 
-The basic differential amplifier consists of a matched pair of NPN BJTs with shared emitter connection and collector resistors. See `Differential amplifier.asc` or `Differential amplifier common.asc`  in this directory for a working simulation example.
+The basic differential amplifier consists of a matched pair of NPN BJTs with shared emitter connection and collector resistors. See `Differential amplifier.asc` or `Differential amplifier common mode.asc`  in this directory for a working simulation example.
 
 ---
 
