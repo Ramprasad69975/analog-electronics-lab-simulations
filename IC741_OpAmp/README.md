@@ -17,7 +17,6 @@
 - Differential inputs (inverting & non-inverting)
 - High input impedance
 - Low output impedance
-*/
 
 ---------------------------------------------------------
 🧪 CIRCUITS INCLUDED
@@ -45,7 +44,6 @@
 ---------------------------------------------------------
 🔁 1. INVERTING AMPLIFIER
 ---------------------------------------------------------
-/*
 → Vin is connected to the inverting input (-) through resistor Rin
 → Non-inverting input (+) is grounded
 → Feedback resistor Rf connects output back to inverting input
@@ -61,12 +59,10 @@
 🛠 Use Case:
     - Audio signal inversion
     - Analog filters
-*/
 
 ---------------------------------------------------------
 ➕ 2. NON-INVERTING AMPLIFIER
 ---------------------------------------------------------
-/*
 → Vin is applied to the non-inverting input (+)
 → Feedback from output to inverting input (-) through resistor Rf
 → Another resistor Rin from inverting input to ground
@@ -82,12 +78,10 @@
 🛠 Use Case:
     - Signal amplification without inversion
     - Sensor signal conditioning
-*/
 
 ---------------------------------------------------------
 🔁 3. VOLTAGE FOLLOWER (BUFFER)
 ---------------------------------------------------------
-/*
 → Vin is connected to the non-inverting input (+)
 → Output is directly connected back to inverting input (-)
 
@@ -103,12 +97,10 @@
 🛠 Use Case:
     - Impedance matching
     - Isolation between circuit stages
-*/
 
 ---------------------------------------------------------
 📦 SIMULATION TOOLS
 ---------------------------------------------------------
-/*
 🧰 Software: LTspice XVII or newer
     - Simulation of analog circuits
     - View waveforms (transient and AC analysis)
@@ -116,24 +108,17 @@
 ⚠️ Note:
     - Use opamp2 or Universal OpAmp component in LTspice
     - Configure power supply pins: V+ and V- for correct operation
-*/
 
 ---------------------------------------------------------
 👨‍💻 AUTHOR
 ---------------------------------------------------------
-/*
 Ramprasad B
 Electrical and Electronics Engineering
 SSN College of Engineering
 
 GitHub: [Ramprasad69975]
-*/
 
 ---------------------------------------------------------
 🔖 LICENSE
 ---------------------------------------------------------
-/*
 MIT License – Free to use, modify, and distribute with credit.
-*/
-
-
